@@ -5,7 +5,7 @@ authors:
 - Guilhem Doulcier
 - Peter Takacs
 - Katrin Hammerschmidt
-- Pierrick Bourrat
+- admin
 date: '2024-08-01'
 publishDate: '2024-08-03T14:07:44.903389Z'
 publication_types:

@@ -2,7 +2,7 @@
 title: 'Evolvability: Filling the Explanatory Gap between Adaptedness and the Long-Term
   Mathematical Conception of Fitness'
 authors:
-- Pierrick Bourrat
+- admin
 - Katie Deaven
 - Cristina Villegas
 date: '2024-07-01'
