@@ -2,7 +2,7 @@
 title: Are Biology Experts and Novices Function Pluralists?
 authors:
 - Andrew J. Roberts
-- Pierrick Bourrat
+- admin
 date: '2024-04-01'
 publishDate: '2024-08-03T14:07:44.889572Z'
 publication_types:
